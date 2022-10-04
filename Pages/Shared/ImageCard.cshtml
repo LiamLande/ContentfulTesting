@@ -1,0 +1,15 @@
+﻿
+@foreach(var image in Model){
+
+<div class="card m-2">
+    <div class="card-body">
+        <h6 class="card-title text-center">@image.Name</h6>
+        <div class="card-text text-center">
+            <img class="card-img-top" src="@image.ImageUrl" alt="">
+            <h5>@image.Description</h5>
+        </div>
+    </div>
+</div>
+
+
+}

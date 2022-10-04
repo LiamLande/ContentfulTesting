@@ -1,0 +1,41 @@
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\appsettings.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.staticwebassets.runtime.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.exe
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.deps.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.runtimeconfig.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contenful Test.pdb
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contentful.Core.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.RazorAssemblyInfo.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.RazorAssemblyInfo.cs
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\scopedcss\bundle\Contenful Test.styles.css
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\scopedcss\projectbundle\Contenful Test.bundle.scp.css
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.csproj.CopyComplete
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\refint\Contenful Test.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.pdb
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\ref\Contenful Test.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Contentful.AspNetCore.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Liam\source\repos\Contenful Test\Contenful Test\obj\Debug\net6.0\Contenful Test.MvcApplicationPartsAssemblyInfo.cs
